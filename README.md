@@ -1,6 +1,9 @@
 # Jared Kish Missiona
 💼 I'm a .NET Software Developer for hire, actively growing a professional portfolio on GitHub, LinkedIn. I specialize in building scalable backend systems using C#, ASP.NET Core, SQL Server, and Angular, with a solid foundation in OOP and SOLID design principles. I'm ready to take on real-world projects and deliver clean, maintainable code.
 
+![](https://komarev.com/ghpvc/?username=JaredKishCodes&color=blue)
+
+
 ### 🛠️ Tech Stack
 
 <p align="center">
