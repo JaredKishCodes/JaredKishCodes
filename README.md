@@ -1,4 +1,4 @@
-# Jared Kish Missiona
+
 💼 I'm a Full-stack Software Developer for hire, actively growing a professional portfolio on GitHub, LinkedIn. I specialize in building scalable backend systems using C#, ASP.NET Core,Clean Architecture, SQL Server,JWT, and Angular, with a solid foundation in OOP and SOLID design principles. I'm ready to take on real-world projects and deliver clean, maintainable code.
 
 ### 🛠️ Tech Stack
